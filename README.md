@@ -1,4 +1,5 @@
-# zoom-vim
+# When in doubt, zoom out.
+*- Reggie Watts*
 
 
                 ███████╗ ██████╗  ██████╗ ███╗   ███╗
