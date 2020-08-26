@@ -1,0 +1,52 @@
+*zoom.txt*          Zoom, Zoom into a pane.             *zoom*
+
+
+                ███████╗ ██████╗  ██████╗ ███╗   ███╗                       ~
+                ╚══███╔╝██╔═══██╗██╔═══██╗████╗ ████║                       ~
+                  ███╔╝ ██║   ██║██║   ██║██╔████╔██║                       ~
+                 ███╔╝  ██║   ██║██║   ██║██║╚██╔╝██║                       ~
+                ███████╗╚██████╔╝╚██████╔╝██║ ╚═╝ ██║                       ~
+                ╚══════╝ ╚═════╝  ╚═════╝ ╚═╝     ╚═╝                       ~
+                                     
+                              ZOOM MANUAL
+
+=============================================================================
+CONTENTS                                                      *zoom-contents*
+
+1. INTRO.............................................[zoom-intro]
+2. KEY MAPPINGS......................................[zoom-keymappings]
+3. CONTRIBUTING......................................[zoom-contributing]
+4. CREDITS...........................................[zoom-credits]
+
+=============================================================================
+ABOUT ZOOM                                                       *zoom-intro*
+
+Zoom lets you to zoom into a split - making it full screen. And zoom out to
+go back to the initial layout.
+
+It's ideal to read all the messages in your quickfix window in full screen.
+Focus on that part of a window that you want to concentrate on.
+
+==============================================================================
+KEY MAPPINGS                                                *zoom-keymappings*
+
+    KEY          | DESCRIPTION
+    -------------|-------------------------------------- >
+      <leader>z  |  Zoom or restore the active split
+
+
+==============================================================================
+CONTRIBUTING                                              *zoom-contributing*
+
+Want to submit a new feature, bugfix, or hack on Zoom?
+Submit pull requests to
+https://github.com/Mathijs-Bakker/zoom-vim
+
+==============================================================================
+CREDITS                                                        *zoom-credits*
+
+This plugin is inspired by (read: stolen from) Nick Nisi. 
+https://github.com/nicknisi
+
+I only made it to plug in.
+So all thanx goes to Nick!
