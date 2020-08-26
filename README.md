@@ -5,7 +5,7 @@
                 ╚══███╔╝██╔═══██╗██╔═══██╗████╗ ████║
                   ███╔╝ ██║   ██║██║   ██║██╔████╔██║
                  ███╔╝  ██║   ██║██║   ██║██║╚██╔╝██║
-                ███████╗╚██████╔╝╚██████╔╝██║ ╚═╝ ██║
+                ███████╗╚██████╔╝╚██████╔╝██║ ╚═╝ ██║  . V I M
                 ╚══════╝ ╚═════╝  ╚═════╝ ╚═╝     ╚═╝
                                      
 
@@ -13,10 +13,10 @@
 
 Zoom lets you zoom a split - making it full window. And zoom out to go back to your initial layout.
 
-It's ideal to read all the messages in your quickfix window in full screen. Focus on that part of a window that you want to concentrate on. Get rid of the noise.
+It's ideal to read all the messages in your quickfix window in full screen. Focus on that part of a window you want to concentrate on. Get rid of the noise.
 
 ## Installation
-Use your favorite plugin manager and in install it like you normally would do. Then add your own keymapping.
+Use your favorite plugin manager and in install it like you normally would do.
 
 Eg:
 ```
