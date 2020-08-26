@@ -14,9 +14,10 @@
 CONTENTS                                                      *zoom-contents*
 
 1. INTRO.............................................[zoom-intro]
-2. KEY MAPPINGS......................................[zoom-keymappings]
-3. CONTRIBUTING......................................[zoom-contributing]
-4. CREDITS...........................................[zoom-credits]
+2. INSTALLATION......................................[zoom-installation]
+3. CONFIGURATION.....................................[zoom-configuration]
+4. CONTRIBUTING......................................[zoom-contributing]
+5. CREDITS...........................................[zoom-credits]
 
 =============================================================================
 ABOUT ZOOM                                                       *zoom-intro*
@@ -25,15 +26,23 @@ Zoom lets you to zoom into a split - making it full screen. And zoom out to
 go back to the initial layout.
 
 It's ideal to read all the messages in your quickfix window in full screen.
-Focus on that part of a window that you want to concentrate on.
+Focus on that part of a window that you want to concentrate on. Get rid of 
+the noise.
 
 ==============================================================================
-KEY MAPPINGS                                                *zoom-keymappings*
+INSTALLATION                                               *zoom-installation*
 
-    KEY          | DESCRIPTION
-    -------------|-------------------------------------- >
-      <leader>z  |  Zoom or restore the active split
+Use your favorite plugin manager and in install it like you normally would do.
+Then add your own keymapping.
 
+==============================================================================
+CONFIGURATION                                             *zoom-configuration*
+
+Map your own key binding like:
+
+       nmap <leader>z <Plug>Zoom
+
+Put it somewhere in your vim.rc and your good to go.
 
 ==============================================================================
 CONTRIBUTING                                              *zoom-contributing*
